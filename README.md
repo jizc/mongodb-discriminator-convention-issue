@@ -1,0 +1,1 @@
+# mongodb-discriminator-convention-issue
