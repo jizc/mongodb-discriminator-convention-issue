@@ -6,4 +6,5 @@
 The issue seems to have been introduced by this commit: [mongodb/mongo-csharp-driver/commit/f54ba02046b543375c7160ace0e512a6a7308763](https://github.com/mongodb/mongo-csharp-driver/commit/f54ba02046b543375c7160ace0e512a6a7308763)
 
 ### Related
-Jira issue: [CSHARP-5349](https://jira.mongodb.org/browse/CSHARP-5349)
+- Jira issue: [CSHARP-5349](https://jira.mongodb.org/browse/CSHARP-5349)
+- PR with fix: https://github.com/mongodb/mongo-csharp-driver/pull/1512
